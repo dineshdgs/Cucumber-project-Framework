@@ -15,6 +15,9 @@ And user enter the Brand Name
 And user enter the GST Number
 And user able to enter the No of Employees
 And user able to enter the Main Products
+And user able to enter the Business Turnover of Apr2020-Mar2021
+And user able to enter the Business Turnover of Apr2021-Mar2022
+And user able to enter the Business Turnover of Apr2022-Mar2023
 And user able to enter the No.of factories/manufacturing units
 And user able to upload the Profile image
 And user able to upload the CompanyLogo
@@ -26,6 +29,6 @@ And user able to drag the Supporting Evidence2
 And user able to enter the Location present at
 And user able to enter the Retail Brands your produce for
 And user able to enter the New innovations / Distributions
-And user able to enter the New innovations / Distributions
+And user able to enter the CSR to the community and environment?
 And Where did you hear about TAGEXPO
 Then user able to submit the SignUp button
